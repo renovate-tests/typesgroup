@@ -8,6 +8,6 @@
 		"mocha": "4.1.0"
 	},
 	"renovate": {
-		"extends": ["config:base", "group:definitelyTyped"]
+		"extends": ["config:base"]
 	}
 }
