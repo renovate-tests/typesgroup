@@ -8,6 +8,7 @@
 		"mocha": "4.1.0"
 	},
 	"renovate": {
-		"extends": ["config:base"]
+		"extends": ["config:base"],
+		"prHourlyLimit": 0
 	}
 }
